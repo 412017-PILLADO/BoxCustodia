@@ -10,13 +10,6 @@ API REST desarrollada con **Spring Boot 3.3.7** para la gestión de tareas con a
 - Búsqueda avanzada con filtros y paginación
 - KPIs de tareas
 - Documentación Swagger/OpenAPI 3.0
-
-## Requisitos Previos
-
-- Java 17 o superior
-- Maven 3.6+ (incluido en el proyecto con Maven Wrapper)
-- MySQL 8.0 (o Docker)
-
 ---
 
 ## Inicialización del Proyecto
