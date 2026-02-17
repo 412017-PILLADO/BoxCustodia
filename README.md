@@ -2,6 +2,10 @@
 
 API REST desarrollada con **Spring Boot 3.3.7** para la gestión de tareas con autenticación JWT, búsqueda avanzada y KPIs.
 
+## Link de coleccion de Postman.
+
+https://mateopillado123-2508281.postman.co/workspace/Mateo-Pillado's-Workspace~59cfaf00-b838-46e8-807d-fb71aafd4c08/collection/48820203-8b000881-d603-48ed-8c0b-3ec9fad5a43a?action=share&creator=48820203
+
 ## Características
 
 - Autenticación JWT (implementada pero no requerida - todas las rutas son públicas)
